@@ -1,4 +1,4 @@
-# Amenability Constant Of the center of group algebra for finite groups
+# Amenability constant of the center of group algebra for finite groups
 
 The notion of amenability of Banach algebras initiated by Johnson's memoirs in which he showed that for every amenable group G, its group algebra is amenable and vice versa. 
 Later, it was observed that this does not hold if one look at the centre of the group algebra. In 
